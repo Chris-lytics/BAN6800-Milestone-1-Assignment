@@ -1,2 +1,2 @@
-# BAN6800-Milestone-1-Assignment
-Business Analytics Project-Ready Dataset
+BAN6800-Module-4-Assignment
+Business Analytics Model
